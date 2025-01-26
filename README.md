@@ -26,3 +26,10 @@ This Python-based solution analyzes quiz performance data of students from histo
    ```bash
    git clone <repository-url>
    cd <repository-directory>
+
+2. **Run data_gathering file**
+   ```bash
+   python data_gathering.py
+
+3. Run the python notebook to analyze historical and current data gathered in the previous file
+
